@@ -9,4 +9,9 @@
 
 ### 📰 Посление посты
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатная VPS от Amazon](http://shanginn.ru/free-aws-vps/)
+- [Создание собственной криптовалюты на блокчейне Solana](http://shanginn.ru/shakel/)
+- [Увеличиваем качество видео с помощью waifu2x на macos](http://shanginn.ru/waifu2x-for-video-on-macos/)
+- [Как сконвертировать webm в mp4?](http://shanginn.ru/webm-to-mp4/)
+- [Laravel tinker &lpar;psysh&rpar; моментально закрывается на PHP 7.3 &lpar;возможно, только на MacOS Mojave&rpar;](http://shanginn.ru/php73-tinker-macos/)
 <!-- BLOG-POST-LIST:END -->
