@@ -9,7 +9,7 @@
 
 ### 📰 Посление посты
 <!-- BLOG-POST-LIST:START -->
-- [Запускаем Linux в браузере. Часть 1](http://shanginn.ru/linux-in-the-browser/)
+- [Запускаем Linux в браузере. Часть 1](http://shanginn.ru/linux-in-the-browser-part-1/)
 - [Бесплатная VPS от Amazon](http://shanginn.ru/free-aws-vps/)
 - [Создание собственной криптовалюты на блокчейне Solana](http://shanginn.ru/shakel/)
 - [Увеличиваем качество видео с помощью waifu2x на macos](http://shanginn.ru/waifu2x-for-video-on-macos/)
