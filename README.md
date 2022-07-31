@@ -9,9 +9,9 @@
 
 ### 📰 Посление посты
 <!-- BLOG-POST-LIST:START -->
+- [Как получить первый символ строки на PHP?](http://shanginn.ru/php-how-to-get-string-first-char/)
+- [20 вопросов Senior Backend PHP/GO разработчику на собеседовании в Avito.](http://shanginn.ru/avito-interview-technical-screening/)
 - [Что такое Bun?](http://shanginn.ru/what-is-bun/)
 - [Запускаем Linux в браузере. Часть 2](http://shanginn.ru/linux-in-the-browser-part-2/)
 - [Запускаем Linux в браузере. Часть 1](http://shanginn.ru/linux-in-the-browser-part-1/)
-- [Бесплатная VPS от Amazon](http://shanginn.ru/free-aws-vps/)
-- [Создание собственной криптовалюты на блокчейне Solana](http://shanginn.ru/shakel/)
 <!-- BLOG-POST-LIST:END -->
