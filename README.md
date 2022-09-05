@@ -10,9 +10,9 @@
 
 ### 📰 Посление посты
 <!-- BLOG-POST-LIST:START -->
+- [Простой способ делать простые HTTP запросы на PHP](http://shanginn.ru/php-making-http-requests-easy/)
 - [Что такое Temporal?](http://shanginn.ru/what-is-temporal/)
 - [Что такое Carbon?](http://shanginn.ru/what-is-carbon/)
 - [Как получить первый символ строки на PHP?](http://shanginn.ru/php-how-to-get-string-first-char/)
 - [20 вопросов Senior Backend PHP/GO разработчику на собеседовании в Avito.](http://shanginn.ru/avito-interview-technical-screening/)
-- [Что такое Bun?](http://shanginn.ru/what-is-bun/)
 <!-- BLOG-POST-LIST:END -->
