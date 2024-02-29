@@ -9,7 +9,7 @@
 
 Гадание на картах таро: [https://t.me/mystaro_bot](https://t.me/mystaro_bot)
 
-Транскрипция звонков: [https://t.me/sistent_bot](https://t.me/sistent_bot)
+Транскрипция звонков: [https://t.me/sistent_bot](https://t.me/sistent_bot?start=github)
 
 ### 💬 Контакты
 <a href="https://shanginn.ru"><img alt="Personal website" title="Personal website" src="https://shanginn.ru/favicons/favicon-96x96.png" width="32" height="32" /></a>
